@@ -1,4 +1,4 @@
-CC = dcc
+CC = gcc
 CFLAGS0 = -g
 CFLAGS1 = -g -fsanitize=address,leak,undefined
 CFLAGS2 = -g -fsanitize=memory,undefined
