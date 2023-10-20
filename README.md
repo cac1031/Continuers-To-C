@@ -1,4 +1,4 @@
-# Continuers To C - Comp Club Summer School '23 Exercises
+# Continuers To C - CompClub Summer School '23 Exercises
 
 ### longestString.c
 
